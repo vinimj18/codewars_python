@@ -28,7 +28,6 @@ function likes(names) {
 
 ////////// BEST SOLUTION
 function likes2(names) {
-  names = names || [];
   switch (names.length) {
     case 0:
       return "no one likes this";
