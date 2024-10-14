@@ -18,6 +18,8 @@ def filter_list(list):
             filtered_list.append(item)
     return filtered_list
 
+
+#################
 # MY 2nd SOLUTION
 
 
